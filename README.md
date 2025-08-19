@@ -28,4 +28,4 @@ This repository contains implementations of core CS229 machine learning algorith
 
 ---
 
-Inspired by Stanford’s [CS229: Machine Learning]([http://cs229.stanford.edu/](https://cs229.stanford.edu/syllabus-spring2022.html)).
+Inspired by Stanford’s [CS229 syllabus (Spring 2022)](https://cs229.stanford.edu/syllabus-spring2022.html).
